@@ -27,8 +27,6 @@ DEBUG = True
 
 <<<<<<< HEAD
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '0.0.0.0']
-=======
-ALLOWED_HOSTS = ['13.233.92.123', 'localhost', '0.0.0.0']
 >>>>>>> f7609eae904915a2d051816a5f13c98cc7e61e5c
 
 
